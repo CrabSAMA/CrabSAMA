@@ -1,16 +1,20 @@
-### Hi there 👋
+<a style="display: flex;" href="https://github.com/CrabSAMA">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api/top-langs/?username=CrabSAMA&theme=vue">
+    <img alt="Shows CrabSAMA's GitHub Stats." align="right" src="https://github-stats.liuli.lol/api/top-langs/?username=CrabSAMA&theme=vue">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=CrabSAMA&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows CrabSAMA's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=CrabSAMA&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+  </picture>
+</a>
 
-<!--
-**CrabSAMA/CrabSAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CrabSAMA(Crab Huang) Here~ 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇨🇳 Chinese and Contonese
+- 🍻 Front-end Configuration Engineer
+- ⚡ Vueer
+- 👨‍💻‍ Working at a unicorn company in the delivery industry
+- ✍️ [Blogger](https://crabsama.github.io/CrabSAMA-Blog/)
+- 🎮 League of Legends / Genshin Impact(100791288)
+- 🏀 Like Basketball
